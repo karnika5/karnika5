@@ -18,11 +18,26 @@ Passionate about Artificial Intelligence, Machine Learning, NLP, Computer Vision
 
 ## Featured Projects
 
-* MediSign – AI-Powered Handwritten Prescription Translator
-* Flight Delay Prediction using Deep Learning
-* Edge AI for Post-Harvest Loss Reduction
-* Mental Health Chatbot using Machine Learning
-* COVID-19 Real-Time Data Analytics Dashboard
+### MediSign
+
+AI-powered handwritten prescription translator using OCR and NLP for converting handwritten medical prescriptions into readable digital text.
+
+### Flight Delay Prediction
+
+Deep learning model for predicting flight delays using operational and weather-related data.
+
+### Edge AI for Post-Harvest Loss Reduction
+
+MobileNetV2-based fruit quality classification system designed for lightweight edge-device suitability.
+
+### Mental Health Chatbot
+
+NLP-based chatbot for emotion detection and contextual response generation.
+
+### COVID-19 Real-Time Data Analytics Dashboard
+
+Interactive Power BI dashboard for analyzing COVID-19 trends, recoveries, mortality statistics, and healthcare insights through data visualization.
+
 
 ## Currently Working On
 
