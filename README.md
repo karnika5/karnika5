@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm J Sree Karnika 
 
-<!--
-**karnika5/karnika5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIML Undergraduate at Chaitanya Bharathi Institute of Technology (CBIT)
 
-Here are some ideas to get you started:
+Passionate about Artificial Intelligence, Machine Learning, NLP, Computer Vision, and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python
+* SQL
+* Machine Learning
+* Deep Learning
+* NLP
+* Computer Vision
+* TensorFlow
+* OpenCV
+* Power BI
+
+## Featured Projects
+
+* MediSign – AI-Powered Handwritten Prescription Translator
+* Flight Delay Prediction using Deep Learning
+* Edge AI for Post-Harvest Loss Reduction
+* Mental Health Chatbot using Machine Learning
+* COVID-19 Real-Time Data Analytics Dashboard
+
+## Currently Working On
+
+* Building a professional AI/ML portfolio
+* Improving GitHub project documentation
+* Applying for AI, ML, Data Science, and Analytics internships
+
+Reach me at: [karnikajanapala@gmail.com](mailto:karnikajanapala@gmail.com)
+
+LinkedIn: linkedin.com/in/karnika-janapala-1948342b4
+
